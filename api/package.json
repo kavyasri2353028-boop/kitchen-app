@@ -12,6 +12,7 @@
     "node": ">=18"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^4.21.0",
     "mongodb": "^6.10.0",
     "prom-client": "^15.1.0"
